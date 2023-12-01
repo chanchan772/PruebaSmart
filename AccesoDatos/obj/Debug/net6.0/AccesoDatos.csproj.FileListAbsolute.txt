@@ -1,0 +1,15 @@
+C:\PruebaSmart\AccesoDatos\obj\Debug\net6.0\AccesoDatos.csproj.AssemblyReference.cache
+C:\PruebaSmart\AccesoDatos\obj\Debug\net6.0\AccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\PruebaSmart\AccesoDatos\obj\Debug\net6.0\AccesoDatos.AssemblyInfoInputs.cache
+C:\PruebaSmart\AccesoDatos\obj\Debug\net6.0\AccesoDatos.AssemblyInfo.cs
+C:\PruebaSmart\AccesoDatos\obj\Debug\net6.0\AccesoDatos.csproj.CoreCompileInputs.cache
+C:\PruebaSmart\AccesoDatos\bin\Debug\net6.0\AccesoDatos.deps.json
+C:\PruebaSmart\AccesoDatos\bin\Debug\net6.0\AccesoDatos.dll
+C:\PruebaSmart\AccesoDatos\bin\Debug\net6.0\AccesoDatos.pdb
+C:\PruebaSmart\AccesoDatos\bin\Debug\net6.0\Entidades.dll
+C:\PruebaSmart\AccesoDatos\bin\Debug\net6.0\Entidades.pdb
+C:\PruebaSmart\AccesoDatos\obj\Debug\net6.0\AccesoDatos.csproj.CopyComplete
+C:\PruebaSmart\AccesoDatos\obj\Debug\net6.0\AccesoDatos.dll
+C:\PruebaSmart\AccesoDatos\obj\Debug\net6.0\refint\AccesoDatos.dll
+C:\PruebaSmart\AccesoDatos\obj\Debug\net6.0\AccesoDatos.pdb
+C:\PruebaSmart\AccesoDatos\obj\Debug\net6.0\ref\AccesoDatos.dll
